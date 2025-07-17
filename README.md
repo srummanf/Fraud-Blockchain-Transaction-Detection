@@ -148,7 +148,7 @@ The following models were trained and evaluated for the fraud classification tas
 
 ## Understand the Code
 
-* The project is implemented in `FinalDance.ipynb`.
+* The project is implemented in `Code.ipynb`.
 * **Key sections in the notebook**:
 
   * **Data Loading**: Reads the transaction dataset and inspects features.
